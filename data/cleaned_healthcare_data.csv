@@ -1,0 +1,101 @@
+Patient_ID,Patient_Name,Age,Gender,Department,Doctor,Visit_Date,Waiting_Time,Admission_Status,Discharge_Status,Severity_Level
+P001,Patient_001,33,Male,Cardiology,Dr. More,2026-02-27,144,Admitted,Discharged,Low
+P002,Patient_002,34,Female,Cardiology,Dr. Kulkarni,2026-08-05,55,Admitted,Discharged,High
+P003,Patient_003,5,Female,Neurology,Dr. More,2026-08-03,113,Admitted,Discharged,Moderate
+P004,Patient_004,18,Male,Cardiology,Dr. Joshi,2026-03-21,93,Admitted,Discharged,Moderate
+P005,Patient_005,73,Male,Pediatrics,Dr. Sharma,2026-01-23,146,Not Admitted,Not Discharged,Moderate
+P006,Patient_006,13,Male,Neurology,Dr. Joshi,2026-07-05,25,Not Admitted,Not Discharged,High
+P007,Patient_007,51,Male,Orthopedics,Dr. Patil,2026-02-21,176,Admitted,Discharged,Moderate
+P008,Patient_008,26,Female,Neurology,Dr. Patil,2026-02-06,123,Not Admitted,Not Discharged,Moderate
+P009,Patient_009,12,Male,Cardiology,Dr. Joshi,2026-04-23,107,Not Admitted,Not Discharged,Moderate
+P010,Patient_010,77,Female,Orthopedics,Dr. Patil,2026-04-19,172,Not Admitted,Not Discharged,Moderate
+P011,Patient_011,76,Female,Emergency,Dr. Kulkarni,2026-08-23,114,Admitted,Discharged,High
+P012,Patient_012,22,Female,Cardiology,Dr. Sharma,2026-07-24,33,Admitted,Not Discharged,Low
+P013,Patient_013,59,Female,Pediatrics,Dr. Deshmukh,2026-03-23,157,Not Admitted,Not Discharged,Critical
+P014,Patient_014,6,Female,Cardiology,Dr. More,2026-09-28,142,Admitted,Discharged,High
+P015,Patient_015,63,Male,Emergency,Dr. More,2026-06-24,72,Admitted,Discharged,Critical
+P016,Patient_016,18,Female,Orthopedics,Dr. More,2026-04-02,134,Not Admitted,Not Discharged,Moderate
+P017,Patient_017,72,Female,General Medicine,Dr. Joshi,2026-03-20,130,Admitted,Discharged,Low
+P018,Patient_018,44,Male,Neurology,Dr. Kulkarni,2026-07-05,25,Not Admitted,Not Discharged,Low
+P019,Patient_019,73,Female,Neurology,Dr. More,2026-09-06,126,Not Admitted,Not Discharged,Critical
+P020,Patient_020,59,Other,General Medicine,Dr. More,2026-03-26,56,Admitted,Not Discharged,High
+P021,Patient_021,52,Male,General Medicine,Dr. Deshmukh,2026-07-24,35,Not Admitted,Not Discharged,Low
+P022,Patient_022,34,Female,Cardiology,Dr. Sharma,2026-02-02,166,Admitted,Discharged,Low
+P023,Patient_023,47,Male,Neurology,Dr. Joshi,2026-02-04,176,Not Admitted,Not Discharged,Moderate
+P024,Patient_024,78,Female,Neurology,Dr. Deshmukh,2026-03-09,109,Not Admitted,Not Discharged,Low
+P025,Patient_025,50,Male,Pediatrics,Dr. More,2026-02-19,18,Not Admitted,Not Discharged,High
+P026,Patient_026,18,Male,Neurology,Dr. Kulkarni,2026-02-20,119,Admitted,Discharged,Low
+P027,Patient_027,14,Male,General Medicine,Dr. Sharma,2026-04-04,17,Admitted,Discharged,High
+P028,Patient_028,35,Male,Pediatrics,Dr. Deshmukh,2026-01-08,59,Not Admitted,Not Discharged,High
+P029,Patient_029,54,Male,Pediatrics,Dr. Joshi,2026-01-31,113,Admitted,Discharged,High
+P030,Patient_030,12,Female,General Medicine,Dr. Sharma,2026-09-07,85,Admitted,Discharged,Low
+P031,Patient_031,72,Male,General Medicine,Dr. Sharma,2026-09-02,52,Not Admitted,Not Discharged,Low
+P032,Patient_032,35,Male,General Medicine,Dr. Patil,2026-02-04,153,Not Admitted,Not Discharged,Moderate
+P033,Patient_033,71,Male,Orthopedics,Dr. Patil,2026-02-11,176,Admitted,Discharged,High
+P034,Patient_034,43,Male,Cardiology,Dr. Sharma,2026-05-03,122,Admitted,Discharged,Moderate
+P035,Patient_035,38,Male,Orthopedics,Dr. Sharma,2026-02-21,67,Admitted,Discharged,Moderate
+P036,Patient_036,74,Female,General Medicine,Dr. More,2026-03-22,140,Not Admitted,Not Discharged,Low
+P037,Patient_037,18,Female,Neurology,Dr. Joshi,2026-06-03,34,Not Admitted,Not Discharged,High
+P038,Patient_038,48,Male,Emergency,Dr. Joshi,2026-03-21,134,Admitted,Discharged,Moderate
+P039,Patient_039,40,Male,Orthopedics,Dr. Patil,2026-01-27,168,Admitted,Discharged,Critical
+P040,Patient_040,75,Female,General Medicine,Dr. Sharma,2026-03-24,33,Not Admitted,Not Discharged,Low
+P041,Patient_041,52,Female,Neurology,Dr. Deshmukh,2026-03-18,37,Not Admitted,Not Discharged,Low
+P042,Patient_042,10,Female,Neurology,Dr. More,2026-07-06,68,Not Admitted,Not Discharged,High
+P043,Patient_043,57,Other,Emergency,Dr. Patil,2026-07-01,65,Not Admitted,Not Discharged,High
+P044,Patient_044,8,Male,Orthopedics,Dr. Deshmukh,2026-04-01,176,Not Admitted,Not Discharged,High
+P045,Patient_045,18,Male,Cardiology,Dr. Deshmukh,2026-05-08,61,Admitted,Discharged,Low
+P046,Patient_046,34,Male,Emergency,Dr. Patil,2026-08-24,107,Admitted,Not Discharged,Moderate
+P047,Patient_047,40,Male,General Medicine,Dr. Deshmukh,2026-02-05,178,Not Admitted,Not Discharged,Critical
+P048,Patient_048,19,Female,Orthopedics,Dr. Patil,2026-06-19,153,Not Admitted,Not Discharged,Critical
+P049,Patient_049,49,Female,Orthopedics,Dr. Deshmukh,2026-05-16,160,Admitted,Discharged,Critical
+P050,Patient_050,37,Male,Pediatrics,Dr. Sharma,2026-03-01,138,Admitted,Discharged,Critical
+P051,Patient_051,47,Female,Emergency,Dr. Sharma,2026-04-11,81,Admitted,Discharged,Moderate
+P052,Patient_052,75,Male,Pediatrics,Dr. More,2026-07-29,102,Admitted,Discharged,High
+P053,Patient_053,43,Male,Cardiology,Dr. Joshi,2026-03-31,78,Not Admitted,Not Discharged,Low
+P054,Patient_054,61,Female,General Medicine,Dr. Deshmukh,2026-06-14,48,Not Admitted,Not Discharged,High
+P055,Patient_055,84,Male,Neurology,Dr. More,2026-05-26,84,Not Admitted,Not Discharged,Low
+P056,Patient_056,65,Female,Cardiology,Dr. Deshmukh,2026-04-12,111,Admitted,Discharged,High
+P057,Patient_057,54,Female,Neurology,Dr. Patil,2026-04-10,172,Not Admitted,Not Discharged,High
+P058,Patient_058,33,Male,Emergency,Dr. Kulkarni,2026-02-24,123,Not Admitted,Not Discharged,Low
+P059,Patient_059,20,Male,Pediatrics,Dr. More,2026-05-08,140,Not Admitted,Not Discharged,Critical
+P060,Patient_060,61,Female,Emergency,Dr. Kulkarni,2026-06-12,114,Not Admitted,Not Discharged,High
+P061,Patient_061,65,Male,Neurology,Dr. More,2026-08-17,75,Not Admitted,Not Discharged,High
+P062,Patient_062,35,Male,Cardiology,Dr. More,2026-09-24,78,Not Admitted,Not Discharged,Low
+P063,Patient_063,22,Male,Pediatrics,Dr. More,2026-06-21,44,Admitted,Discharged,High
+P064,Patient_064,64,Male,Neurology,Dr. Deshmukh,2026-02-02,104,Admitted,Discharged,Critical
+P065,Patient_065,78,Male,Cardiology,Dr. Joshi,2026-01-11,81,Not Admitted,Not Discharged,High
+P066,Patient_066,74,Female,Neurology,Dr. Deshmukh,2026-08-03,61,Not Admitted,Not Discharged,Moderate
+P067,Patient_067,56,Female,Pediatrics,Dr. Patil,2026-09-06,164,Admitted,Discharged,Moderate
+P068,Patient_068,8,Male,Pediatrics,Dr. Patil,2026-07-21,123,Not Admitted,Not Discharged,Low
+P069,Patient_069,46,Male,Pediatrics,Dr. Joshi,2026-05-14,112,Admitted,Discharged,Moderate
+P070,Patient_070,74,Male,Orthopedics,Dr. Patil,2026-02-11,171,Not Admitted,Not Discharged,Low
+P071,Patient_071,36,Male,Cardiology,Dr. Kulkarni,2026-01-21,44,Not Admitted,Not Discharged,Low
+P072,Patient_072,77,Female,Pediatrics,Dr. More,2026-08-31,70,Not Admitted,Not Discharged,High
+P073,Patient_073,19,Female,Neurology,Dr. Joshi,2026-03-27,32,Not Admitted,Not Discharged,Moderate
+P074,Patient_074,53,Male,Emergency,Dr. Patil,2026-06-09,24,Not Admitted,Not Discharged,Moderate
+P075,Patient_075,81,Female,General Medicine,Dr. Sharma,2026-05-05,93,Admitted,Discharged,Moderate
+P076,Patient_076,6,Female,Pediatrics,Dr. Sharma,2026-07-09,115,Admitted,Discharged,Critical
+P077,Patient_077,60,Male,General Medicine,Dr. More,2026-08-24,74,Not Admitted,Not Discharged,Moderate
+P078,Patient_078,80,Male,Neurology,Dr. Sharma,2026-09-05,76,Not Admitted,Not Discharged,High
+P079,Patient_079,77,Female,Pediatrics,Dr. Joshi,2026-05-05,12,Not Admitted,Not Discharged,Moderate
+P080,Patient_080,38,Male,General Medicine,Dr. More,2026-06-16,75,Admitted,Discharged,Moderate
+P081,Patient_081,15,Male,Pediatrics,Dr. Deshmukh,2026-09-22,147,Not Admitted,Not Discharged,High
+P082,Patient_082,67,Male,Cardiology,Dr. Sharma,2026-09-01,80,Not Admitted,Not Discharged,Low
+P083,Patient_083,65,Female,Orthopedics,Dr. Deshmukh,2026-05-05,145,Admitted,Discharged,Moderate
+P084,Patient_084,20,Female,Orthopedics,Dr. Sharma,2026-08-21,142,Admitted,Discharged,Critical
+P085,Patient_085,40,Female,General Medicine,Dr. Kulkarni,2026-04-05,77,Admitted,Discharged,Critical
+P086,Patient_086,43,Male,General Medicine,Dr. Patil,2026-04-10,75,Admitted,Discharged,Low
+P087,Patient_087,21,Female,Pediatrics,Dr. Sharma,2026-01-28,8,Not Admitted,Not Discharged,Moderate
+P088,Patient_088,48,Male,Cardiology,Dr. Joshi,2026-08-29,127,Not Admitted,Not Discharged,Low
+P089,Patient_089,85,Female,Neurology,Dr. Patil,2026-02-03,149,Admitted,Discharged,Critical
+P090,Patient_090,20,Female,Pediatrics,Dr. Kulkarni,2026-02-13,157,Not Admitted,Not Discharged,High
+P091,Patient_091,53,Male,Pediatrics,Dr. Joshi,2026-04-26,155,Not Admitted,Not Discharged,Critical
+P092,Patient_092,12,Female,Emergency,Dr. Sharma,2026-06-06,58,Not Admitted,Not Discharged,Moderate
+P093,Patient_093,25,Male,General Medicine,Dr. Sharma,2026-05-16,45,Not Admitted,Not Discharged,Low
+P094,Patient_094,65,Male,Neurology,Dr. Joshi,2026-08-19,77,Not Admitted,Not Discharged,High
+P095,Patient_095,38,Female,Emergency,Dr. Kulkarni,2026-08-21,174,Admitted,Discharged,High
+P096,Patient_096,74,Male,Neurology,Dr. Joshi,2026-04-12,41,Not Admitted,Not Discharged,Low
+P097,Patient_097,81,Female,General Medicine,Dr. Joshi,2026-03-26,117,Not Admitted,Not Discharged,Low
+P098,Patient_098,39,Female,Pediatrics,Dr. Deshmukh,2026-06-05,25,Not Admitted,Not Discharged,Moderate
+P099,Patient_099,82,Male,Cardiology,Dr. Patil,2026-08-10,177,Not Admitted,Not Discharged,High
+P100,Patient_100,39,Female,Neurology,Dr. Deshmukh,2026-01-11,137,Not Admitted,Not Discharged,High
